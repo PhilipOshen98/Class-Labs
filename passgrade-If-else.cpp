@@ -9,8 +9,6 @@ using namespace std;
 
 We want the to be able to calculate the average score of 3 tests from the user. Furthermore, if the user has an average score higher than 75, then they are passing. 
 
-We need to tell the user what we want to do for them
-
 Get user input of 3 test scores
 
 Add the 3 test scores then divide by 3
