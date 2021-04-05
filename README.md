@@ -1,4 +1,7 @@
 "# Class-Labs" 
 
+Lab 1 - Temp conversion
+Lab 2 - Geometry of Shapes Calculator
+Lab 3 - BMI calculator
 
-I'll be keeping class lab assignments here from my c++ class so I can have something to look back on.
+... tbc
