@@ -28,7 +28,12 @@ int main()
 		cout << "Your total comission is " << Total << endl;
 	}
 
+	/* I feel like there's a better way to write what I have here using Assignment Operators. 
+	If I could do something like Total += 250 I think it would look nicer. The class activity asked for 250 to be assigned to a bonus variable
+	so I just thought it required it to be declared as a regular variable. If I wanted to get rid of the variable however and I knew the bonus would never
+	CHange from 250, I think I could have used "+="
 	
+	*/
 
 
 }
