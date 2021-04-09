@@ -7,8 +7,8 @@ using namespace std;
 int main()
 
 {
-	
-	int radius, area, width, length, height, base, quit;
+	int 
+	int radius, area, width, length, height, base, quit, choice;
 	const double PI = 3.14;
 
 	const int CIRCLE_CHOICE = 1, RECTANGLE_CHOICE = 2, TRIANGLE_CHOICE = 3, QUIT_CHOICE = 4;
