@@ -7,7 +7,7 @@ using namespace std;
 int main()
 
 {
-	int choice;
+	
 	int radius, area, width, length, height, base, quit;
 	const double PI = 3.14;
 
