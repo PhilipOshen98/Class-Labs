@@ -22,38 +22,32 @@ Output the results of the average score.
 int main()
 {
 
-	const int Max_Average_Score = 75;
+const int Max_Average_Score = 75;
 
-	double average;
+double average;
 
-	double Test1, Test2, Test3;
-
-
-	cout << "Please enter your 3 test scores.";
-
-	cin >> Test1 >> Test2 >> Test3;
-
-	average = (Test1+Test2+Test3) / 3.0;
-	cout << fixed << showpoint << setprecision(1);
-
-	if (average > 75)
-	{
-		cout << "\n\nYour average is " << average << endl;
-		cout << "Congrats you've passed!\n\n";
-	}
-
-	else if (average < 75)
-	{
-		cout << "\n\nYour average is " << average << endl;
-		cout << "study harder next time\n\n" << endl;
-	}
+double Test1, Test2, Test3;
 
 
-		
+cout << "Please enter your 3 test scores.";
+
+cin >> Test1 >> Test2 >> Test3;
+
+average = (Test1+Test2+Test3) / 3.0;
+cout << fixed << showpoint << setprecision(1);
+
+if (average > 75)
+{
+	cout << "\n\nYour average is " << average << endl;
+	cout << "Congrats you've passed!\n\n";
+}
+
+else if (average < 75)
+{
+	cout << "\n\nYour average is " << average << endl;
+	cout << "study harder next time\n\n" << endl;
+}
 
 
-
-
-
-
+	
 }
