@@ -1,17 +1,3 @@
-/*
-
-   Programmer’s name:   Wk5_Lab2_EricTan.cpp
-
-   Programmer:     Eric Tan
-
-   Date:     4/11/2021
-
-   Version: 7.3
-
-   Description of the program: This program uses a loop to get the sum of all integers from 1 up to the number entered.
-
-*/
-
 #include <iostream>
 #include <conio.h>
 using namespace std;
